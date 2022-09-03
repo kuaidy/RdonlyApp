@@ -46,3 +46,4 @@ contains(ANDROID_TARGET_ARCH,x86_64) {
         $$PWD/android
 }
 android: include(C:/Users/kuai/AppData/Local/Android/Sdk/android_openssl/openssl.pri)
+
